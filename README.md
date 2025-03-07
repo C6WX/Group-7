@@ -110,6 +110,13 @@ You are required to research **at least one source from each of the following ca
 - Outline the initial goals or objectives you aim to achieve.  
 - Identify any anticipated challenges or potential issues that may arise during development.
 
+- little nightmares 2 inspired game
+- you play as a child in a large bedroom
+- the monster you are having to survive against is the boogyman 
+- the player will have to use a small candle to see around them and light large candles to keep them out of the dark
+- if the player spends too long in the dark, they die
+- the player has to find a combination around the room by using candles to see so that they can open a locked diary which holds a key that opens the window which the player will use to escape 
+
 ## Research (Suggested Word Count 1,100) 
 
 ### Methodology  
